@@ -122,12 +122,12 @@ Ce projet est une **application de détection de maladies des plantes** qui util
    }
    ```
 
-### Étape 3 : Configurer le Frontend avec Angular
-1. **Créer un Projet Angular** :
-   - Utilisez Angular CLI pour créer un nouveau projet : `ng new plant-disease-app`.
+### Étape 3 : Configuration du Frontend avec Angular
+1. **Projet Angular** :
+   - Angular CLI pour créer un nouveau projet : `ng new plant-disease-app`.
 
-2. **Créer un Formulaire de Téléversement d'Image** :
-   - Utilisez Angular Material pour créer une interface utilisateur conviviale pour téléverser des images.
+2. **Cretion d'un un Formulaire de Téléversement d'Image** :
+   - Tailwind CSS pour créer une interface utilisateur conviviale pour téléverser des images.
 
    Exemple de code Angular :
    ```html
@@ -166,23 +166,16 @@ Ce projet est une **application de détection de maladies des plantes** qui util
    }
    ```
 
-### Étape 4 : Tester et Déployer l'Application
-- **Tester Localement** : Exécutez le backend Spring Boot et le frontend Angular localement pour vérifier que tout fonctionne.
-- **Déployer** : Déployez l'application sur une plateforme cloud comme AWS, Heroku, ou utilisez Docker pour la conteneurisation.
+### Étape 4 : Test de l'Application
+- **Tester Localement** : J'ai exécuté le backend Spring Boot et le frontend Angular localement pour vérifier que tout fonctionne.
 
 ## Résultat
-Vous aurez une application fonctionnelle où :
 1. Les utilisateurs peuvent téléverser des images de feuilles de plantes.
 2. Le backend prédit la maladie en utilisant le modèle entraîné.
 3. Le frontend affiche le résultat de la prédiction.
 
 ## Conclusion
-Ce projet montre comment construire une application complète de détection de maladies des plantes en utilisant des technologies modernes. Il combine le machine learning, le développement backend et le développement frontend pour créer un outil utile pour identifier les maladies des plantes.
+Ce projet test, qui est un premier pas pour moi dans les IA et le machine learning,  m'a permis de construire une application complète de détection de maladies des plantes. Il combine le machine learning, le développement backend et le développement frontend pour créer un outil utile pour identifier les maladies des plantes.
 
-N'hésitez pas à contribuer, à ouvrir des issues ou à suggérer des améliorations ! 🌿
 
 ---
-
-**Remarque** : Remplacez les placeholders comme `path/to/plant_disease_model.h5` par les chemins réels et ajustez le code selon votre configuration spécifique.
-
-Bon codage ! 🚀
