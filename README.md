@@ -1,5 +1,8 @@
 # Application (IA) de Détection de Maladies des Plantes
 
+Lien backend : https://github.com/romeoDjoman/plantDiseaseIA_spring/blob/main/README.md
+
+
 ## Aperçu
 Ce projet est une **application de détection de maladies des plantes** qui utilise **Spring Boot** pour le backend, **Angular** pour le frontend, et un **modèle de machine learning** entraîné sur le dataset **PlantVillage** de Kaggle. L'application permet aux utilisateurs de téléverser des images de feuilles de plantes, et elle prédit si la plante est saine ou affectée par une maladie spécifique.
 
