@@ -1,6 +1,6 @@
 # Application (IA) de Détection de Maladies des Plantes
 
-Lien backend : https://github.com/romeoDjoman/plantDiseaseIA_spring/blob/main/README.md
+- Lien backend : https://github.com/romeoDjoman/plantDiseaseIA_spring/blob/main/README.md
 
 
 ## Aperçu
